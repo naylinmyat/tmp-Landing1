@@ -652,6 +652,10 @@ nav .nav-content-mobile-view .signup-btn:hover{
         font-size: 16px;
     }
 
+    p{
+        color: rgb(90 86 86);
+    }
+
     #hero{
         height: auto;
         background: #2B59FF;
